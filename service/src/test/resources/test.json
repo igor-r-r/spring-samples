@@ -1,0 +1,22 @@
+{
+  "parameters": {
+    "params": [
+      {
+        "name": "from",
+        "values": [
+          "USA",
+          "Spain",
+          "India"
+        ]
+      },
+      {
+        "name": "to",
+        "values": [
+          "Canada",
+          "Mexico",
+          "France"
+        ]
+      }
+    ]
+  }
+}

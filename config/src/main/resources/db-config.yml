@@ -1,0 +1,9 @@
+hibernate:
+    dialect: org.hibernate.dialect.MySQLDialect
+    format_sql: false
+    show_sql: false
+jdbc:
+    driverClassName: com.mysql.jdbc.Driver
+    password: pass
+    url: jdbc:mysql://localhost:3306/spring_from_scratch
+    username: root
